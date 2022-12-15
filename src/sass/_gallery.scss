@@ -58,6 +58,7 @@ p.info-item {
   display: flex;
   text-align: center;
   flex-wrap: wrap;
-  justify-content: center;
   color: rgb(82, 85, 85);
+   justify-content: space-between;
+  gap: 5px;
 }
